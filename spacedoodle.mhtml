@@ -1,0 +1,358 @@
+!<DOCTYPE html>
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text=
+/html; charset=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/css" href=3D=
+"cid:css-e0b52407-9347-4078-b9a9-e853bfde964b@mhtml.blink" />
+	=09
+		<meta name=3D"viewport" content=3D"width=3Ddevice-width, user-scalable=3D=
+no, minimum-scale=3D1.0, maximum-scale=3D1.0">
+		<title>Google Space</title>=20
+	=09
+	</head>
+	<body style=3D"position: static;">
+
+	=09
+
+		<table id=3D"topbar">
+			<tbody><tr>
+				<td class=3D"box2d" style=3D"position: absolute; left: 22.516px; top: 4=
+4.1189px; width: 52px; transform: rotate(48.5828deg) translateZ(0px);"><spa=
+n>+You</span></td>
+				<td class=3D"box2d selected" style=3D"position: absolute; left: 113.204=
+px; top: 5.76152px; width: 63px; transform: rotate(-10.3561deg) translateZ(=
+0px);"><span>Search</span></td>
+				<td class=3D"box2d" style=3D"position: absolute; left: 221.276px; top: =
+1.3604px; width: 65px; transform: rotate(2.24712deg) translateZ(0px);"><spa=
+n>Images</span></td>
+				<td class=3D"box2d" style=3D"position: absolute; left: 329.226px; top: =
+4.51294px; width: 53px; transform: rotate(-6.09384deg) translateZ(0px);"><s=
+pan>Maps</span></td>
+				<td class=3D"box2d" style=3D"position: absolute; left: 425.482px; top: =
+4.51705px; width: 47px; transform: rotate(7.81834deg) translateZ(0px);"><sp=
+an>Play</span></td>
+				<td class=3D"box2d" style=3D"position: absolute; left: 472.028px; top: =
+10.9463px; width: 74px; transform: rotate(5.65064deg) translateZ(0px);"><sp=
+an>YouTube</span></td>
+				<td class=3D"box2d" style=3D"position: absolute; left: 545.985px; top: =
+18.9039px; width: 53px; transform: rotate(5.79458deg) translateZ(0px);"><sp=
+an>News</span></td>
+				<td class=3D"box2d" style=3D"position: absolute; left: 599.909px; top: =
+12.8527px; width: 57px; transform: rotate(3.31506deg) translateZ(0px);"><sp=
+an>Gmail</span></td>
+				<td class=3D"box2d" style=3D"position: absolute; left: 656.289px; top: =
+17.6372px; width: 52px; transform: rotate(3.73329deg) translateZ(0px);"><sp=
+an>Drive</span></td>
+				<td class=3D"box2d" style=3D"position: absolute; left: 708.417px; top: =
+30.9677px; width: 75px; transform: rotate(3.7987deg) translateZ(0px);"><spa=
+n>Calendar</span></td>
+				<td class=3D"box2d" style=3D"position: absolute; left: 718.088px; top: =
+339.736px; width: 51px; transform: rotate(633.722deg) translateZ(0px);"><sp=
+an>More</span></td>
+				<td class=3D"box2d empty" style=3D"width: 144px; position: absolute; le=
+ft: 250.09px; top: 498.222px; transform: rotate(841.397deg) translateZ(0px)=
+;"><span>&nbsp;</span></td>
+				<td class=3D"box2d empty" style=3D"width: 280px; position: absolute; le=
+ft: 783.842px; top: 38.6327px; transform: rotate(-1.74737deg) translateZ(0p=
+x);"><span>&nbsp;</span></td>
+				<td class=3D"box2d empty" style=3D"width: 280px; position: absolute; le=
+ft: 1064.56px; top: 25.4424px; transform: rotate(-4.60949deg) translateZ(0p=
+x);"><span>&nbsp;</span></td>
+				<td class=3D"box2d empty" style=3D"width: 144px; position: absolute; le=
+ft: 1344.28px; top: 10.8167px; transform: rotate(-3.4079deg) translateZ(0px=
+);"><span>&nbsp;</span></td>
+				<td class=3D"box2d empty" style=3D"width: 75px; position: absolute; lef=
+t: 1489.22px; top: 8.22534px; transform: rotate(-2.6291deg) translateZ(0px)=
+;"><span>&nbsp;</span></td>
+				<td class=3D"box2d empty" style=3D"width: 75px; position: absolute; lef=
+t: 1564.41px; top: 2.91636px; transform: rotate(-1.44449deg) translateZ(0px=
+);"><span>&nbsp;</span></td>
+				<td class=3D"box2d empty" style=3D"width: 280px; position: absolute; le=
+ft: 1639.99px; top: 0.0144404px; transform: rotate(-0.0199151deg) translate=
+Z(0px);"><span>&nbsp;</span></td>
+			</tr>
+		</tbody></table>
+
+		<span style=3D"position: static; top: 50px; right: 30px;"><button id=3D"b=
+tnG" class=3D"box2d" style=3D"color: rgb(255, 255, 255); font-size: 11px; f=
+ont-weight: bold; padding: 0px 16px; border: 1px solid transparent; backgro=
+und-color: rgb(209, 72, 54); text-transform: uppercase; position: absolute;=
+ left: 1845.27px; top: 32.1586px; width: 75px; transform: rotate(-0.68139de=
+g) translateZ(0px);">Sign in</button></span>
+
+		<div id=3D"content">
+			<img id=3D"logo" src=3D"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAR=
+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
+wAAAAASUVORK5CYII=3D" width=3D"275" height=3D"95" class=3D"box2d" style=3D"=
+position: absolute; left: 936.647px; top: 318.516px; width: 275px; transfor=
+m: rotate(26.7232deg) translateZ(0px);"><br>
+			<input id=3D"q" value=3D"" title=3D"Search" autocomplete=3D"off" type=3D=
+"text" maxlength=3D"2048" class=3D"box2d" style=3D"position: absolute; left=
+: 735.88px; top: 432.275px; width: 580px; transform: rotate(39.0244deg) tra=
+nslateZ(0px);"><br>
+			<span style=3D"margin: 0 4px;"><button id=3D"btnG" class=3D"box2d" style=
+=3D"position: absolute; left: 781.765px; top: 391.624px; width: 96px; trans=
+form: rotate(35.0366deg) translateZ(0px);">Google Search</button></span>
+			<span style=3D"margin: 0 4px;"><button id=3D"btnI" class=3D"box2d" style=
+=3D"position: absolute; left: 875.588px; top: 461.352px; width: 111px; tran=
+sform: rotate(27.415deg) translateZ(0px);">I'm Feeling Lucky</button></span=
+>
+		</div>
+
+		<table id=3D"bottombar" style=3D"position: static;">
+			<tbody><tr>
+				<td class=3D"box2d" style=3D"width: 392px; position: absolute; left: 9.=
+0733px; top: 908.222px; transform: rotate(9.98099deg) translateZ(0px);"><sp=
+an>&nbsp;</span></td>
+				<td class=3D"box2d" style=3D"width: 470px; position: absolute; left: 40=
+3.012px; top: 885.074px; transform: rotate(-14.0799deg) translateZ(0px);"><=
+span>&nbsp;</span></td>
+				<td class=3D"box2d" style=3D"width: 313px; position: absolute; left: 96=
+4.652px; top: 852.672px; transform: rotate(-13.4344deg) translateZ(0px);"><=
+span>&nbsp;</span></td>
+				<td class=3D"box2d" style=3D"width: 157px; position: absolute; left: 12=
+84.62px; top: 793.984px; transform: rotate(-21.6011deg) translateZ(0px);"><=
+span>&nbsp;</span></td>
+				<td class=3D"box2d" style=3D"width: 157px; position: absolute; left: 13=
+50.31px; top: 914.804px; transform: rotate(-20.7793deg) translateZ(0px);"><=
+span>&nbsp;</span></td>
+				<td class=3D"box2d" style=3D"width: 196px; position: absolute; left: 15=
+10.43px; top: 916.002px; transform: rotate(-5.08928deg) translateZ(0px);"><=
+span>&nbsp;</span></td>
+				<td class=3D"box2d" style=3D"width: 157px; position: absolute; left: 17=
+26.07px; top: 798.909px; transform: rotate(26.0866deg) translateZ(0px);"><s=
+pan>&nbsp;</span></td>
+				<td class=3D"box2d" style=3D"width: 78px; position: absolute; left: 183=
+8.95px; top: 907.076px; transform: rotate(60.7787deg) translateZ(0px);"><sp=
+an>&nbsp;</span></td>
+			</tr>
+		</tbody></table>
+
+		<div id=3D"footer" style=3D"position: static;">
+			<a href=3D"http://www.google.com/intl/en/ads/" class=3D"box2d" style=3D"=
+position: absolute; left: 1404.69px; top: 905.438px; width: 125px; transfor=
+m: rotate(-22.3179deg) translateZ(0px);">Advertising Programs</a>
+			<a href=3D"http://www.google.com/services/" class=3D"box2d" style=3D"pos=
+ition: absolute; left: 1523.88px; top: 925.732px; width: 112px; transform: =
+rotate(-3.2182deg) translateZ(0px);">Business Solutions</a>
+			<a href=3D"http://www.google.com/intl/en/policies/" class=3D"box2d" styl=
+e=3D"position: absolute; left: 1636.29px; top: 915.206px; width: 97px; tran=
+sform: rotate(-5.03268deg) translateZ(0px);">Privacy &amp; Terms</a>
+			<a href=3D"https://plus.google.com/116899029375914044550" class=3D"box2d=
+" style=3D"position: absolute; left: 1735.94px; top: 907.491px; width: 49px=
+; transform: rotate(-1.33541deg) translateZ(0px);">+Google</a>
+			<a href=3D"http://www.google.com/intl/en/about.html" class=3D"box2d" sty=
+le=3D"position: absolute; left: 1800.24px; top: 909.537px; width: 79px; tra=
+nsform: rotate(-0.664728deg) translateZ(0px);">About Google</a>
+		</div>
+
+		<!-- <script src=3D"http://www.google.com/uds/api?file=3Duds.js&v=3D0.1" =
+type=3D"text/javascript"></script> -->
+	=09
+	=09
+	=09
+
+=09
+
+</body></html>
+------MultipartBoundary--vMNbi2v5jSeGH6Qc2c4hhbZPJrmXxFH8tVphFSSK3i----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-e0b52407-9347-4078-b9a9-e853bfde964b@mhtml.blink
+
+@charset "utf-8";
+
+body { margin: 0px; overflow: hidden; background-color: rgb(255, 255, 255);=
+ font-family: Arial, sans-serif; user-select: none; }
+
+button { height: 29px; padding: 0px 8px; color: rgb(68, 68, 68); background=
+-color: rgb(244, 244, 244); border: 1px solid rgb(217, 217, 217); border-ra=
+dius: 2px; font-family: Arial, sans-serif; font-size: 11px; font-weight: bo=
+ld; text-align: center; cursor: pointer; }
+
+button:hover { color: rgb(34, 34, 34); background-color: rgb(248, 248, 248)=
+; box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 1px; }
+
+#topbar { width: 100%; color: rgb(187, 187, 187); font-size: 13px; font-wei=
+ght: bold; line-height: 27px; border-spacing: 0px; white-space: nowrap; }
+
+#topbar tr { width: 100%; margin: 0px; padding: 0px; }
+
+#topbar td { height: 28px; margin: 0px; background-color: rgb(45, 45, 45); =
+white-space: nowrap; cursor: pointer; }
+
+#topbar td:hover { color: rgb(255, 255, 255); }
+
+#topbar td.selected { color: rgb(255, 255, 255); }
+
+#topbar td.empty { cursor: auto; }
+
+#topbar td.empty:hover { background-color: rgb(45, 45, 45); }
+
+#topbar td span { display: block; padding: 1px 8px 0px 10px; }
+
+#content { width: 100%; text-align: center; margin-top: 162px; white-space:=
+ nowrap; }
+
+#content #logo { margin-bottom: 17px; }
+
+#content input { width: 560px; padding: 4px 9px; margin-bottom: 16px; font:=
+ 16px arial, sans-serif; border-width: 1px; border-style: solid; border-col=
+or: rgb(192, 192, 192) rgb(217, 217, 217) rgb(217, 217, 217); border-image:=
+ initial; color: rgb(0, 0, 0); }
+
+#content input:hover { border-width: 1px; border-style: solid; border-color=
+: rgb(160, 160, 160) rgb(185, 185, 185) rgb(185, 185, 185); border-image: i=
+nitial; }
+
+#content input:focus { outline: 0px; border-color: rgb(77, 144, 254); }
+
+#bottombar { position: absolute; bottom: 30px; width: 100%; height: 1px; li=
+ne-height: 0px; border-spacing: 0px; }
+
+#bottombar tr { width: 100%; margin: 0px; padding: 0px; }
+
+#bottombar td { height: 1px; margin: 0px; padding: 0px; background-color: r=
+gb(235, 235, 235); }
+
+#footer { position: absolute; right: 50px; bottom: 10px; width: 100%; font-=
+size: 13px; text-align: right; white-space: nowrap; }
+
+#footer * { margin: 0px 9px; }
+
+#footer a { color: rgb(102, 102, 102); text-decoration: none; }
+
+#footer a:hover { text-decoration: underline; }
+
+.result { width: 546px; }
+
+.result .title { color: rgb(34, 0, 193); font-size: 16px; font-weight: norm=
+al; }
+
+.result .title a:active { color: rgb(34, 0, 193); }
+
+.result .url { color: rgb(14, 119, 74); font-size: 13px; }
+
+.result .content { font-size: 13px; }
+------MultipartBoundary--vMNbi2v5jSeGH6Qc2c4hhbZPJrmXxFH8tVphFSSK3i------
